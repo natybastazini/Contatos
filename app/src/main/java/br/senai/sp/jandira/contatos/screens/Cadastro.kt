@@ -114,7 +114,7 @@ fun TelaCadastro() {
                     onValueChange = {},
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(bottom = 16.dp),
+                        .padding(bottom = 8.dp),
                     label = {
                         Text(text = "Nome do meu contato")
                     },
@@ -132,7 +132,7 @@ fun TelaCadastro() {
                     onValueChange = {},
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(bottom = 16.dp),
+                        .padding(bottom = 8.dp),
                     label = {
                         Text(text = "E-mail do meu contato")
                     },
@@ -150,7 +150,7 @@ fun TelaCadastro() {
                     onValueChange = {},
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(bottom = 16.dp),
+                        .padding(bottom = 8.dp),
                     label = {
                         Text(text = "Telefone do meu contato")
                     },
@@ -168,7 +168,7 @@ fun TelaCadastro() {
                     onValueChange = {},
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(bottom = 16.dp),
+                        .padding(bottom = 8.dp),
                     label = {
                         Text(text = "Data de nascimento do meu contato")
                     },
